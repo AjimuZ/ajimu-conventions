@@ -1,0 +1,14 @@
+{
+  "name": "ajimu-conventions",
+  "displayName": "Ajimu Conventions",
+  "version": "1.0.0",
+  "description": "Engineering conventions for verified, documented delivery: contract-focused comments, roadmap, changelog and docs updated with each change, and neutral commit messages.",
+  "author": {
+    "name": "Azim Ben Othman",
+    "url": "https://github.com/AjimuZ"
+  },
+  "homepage": "https://github.com/AjimuZ/ajimu-conventions",
+  "repository": "https://github.com/AjimuZ/ajimu-conventions",
+  "license": "MIT",
+  "keywords": ["conventions", "documentation", "changelog", "roadmap", "git", "commit-messages", "code-comments"]
+}

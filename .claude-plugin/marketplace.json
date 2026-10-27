@@ -1,0 +1,15 @@
+{
+  "name": "ajimu-conventions",
+  "description": "Ajimu's engineering conventions skill",
+  "owner": {
+    "name": "Azim Ben Othman",
+    "url": "https://github.com/AjimuZ"
+  },
+  "plugins": [
+    {
+      "name": "ajimu-conventions",
+      "source": "./",
+      "description": "Verified, documented delivery with neutral commit messages"
+    }
+  ]
+}
